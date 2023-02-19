@@ -214,3 +214,4 @@ $(".open-search").click(function(){
 $(".close-search").click(function(){
     $(".search").removeClass("active")
 })
+
